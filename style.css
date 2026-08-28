@@ -59,21 +59,21 @@ body {
 /* Linha 8 */
 .linha8 {
     display: flex;
-    justify-content: center;
+    justify-content:space-between;
     align-items: flex-end;
 }
 
 /* Linha 9 */
 .linha9 {
     display: flex;
-    justify-content: center;
+    justify-content:space-around;
     align-items: center;
 }
 
 /* Linha 10 */
 .linha10 {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
